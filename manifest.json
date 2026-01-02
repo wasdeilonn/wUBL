@@ -1,0 +1,15 @@
+{
+    "id": "wubl",
+    "name": "wasd_'s Ultimate Background Library (wUBL)",
+    "version": "1.0",
+    "authors": [
+        "wasd_"
+    ],
+    "dependencies": [
+        {
+            "id": "polytopia",
+            "min": "2.10.0"
+        }
+    ],
+    "description": "This library mod allows modders to add custom backgrounds and logos to the main menu screen without programming."
+}
